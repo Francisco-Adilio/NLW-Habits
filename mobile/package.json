@@ -15,10 +15,12 @@
     "expo-font": "~11.0.1",
     "expo-status-bar": "~1.4.2",
     "google-fonts": "^1.0.0",
+    "nativewind": "^2.0.11",
     "react": "18.1.0",
     "react-dom": "18.1.0",
     "react-native": "0.70.5",
     "react-native-web": "~0.18.9",
+    "tailwind": "^4.0.0",
     "undefined": "@expo/google-fonts/inter"
   },
   "devDependencies": {
